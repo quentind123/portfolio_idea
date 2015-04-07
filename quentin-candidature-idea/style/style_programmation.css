@@ -1,0 +1,56 @@
+/* ##########   Règles de style page Smar'Start ############ */
+
+
+/* Elements principaux de la page */
+
+#article_2
+{
+	margin: 150px;
+	margin-top: -80px;
+	text-align: left;
+}
+
+h3
+{
+	padding-top: 40px;
+}
+
+.sous-titres
+{
+	margin-top: 80px;
+}
+
+.tableau
+{
+	margin: 20px;
+	margin-top: 70px;
+	margin-bottom: 40px;
+}
+
+#photo_blog
+{
+	margin-top: 70px;
+}
+
+#photo_portfolio
+{
+	margin-top: 70px;
+}
+
+.titres_photo
+{
+	text-align: center;
+	margin-top: 30px;
+}
+
+.text_progra_idea
+{
+	text-align: justify;
+	margin-top: 40px;
+	margin-bottom: 40px;
+	margin-right: 40px;
+}
+
+
+
+

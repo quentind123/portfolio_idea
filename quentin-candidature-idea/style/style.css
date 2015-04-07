@@ -1,0 +1,162 @@
+/* Définition des polices personnalisées */
+
+
+/* Elements principaux de la page */
+
+body
+{
+	text-align: center;
+}
+
+h2
+{
+	text-align: left;
+	padding-bottom: 10px;
+	border-bottom: 1px solid rgb(146,188,247);
+}
+
+.accroche_page
+{
+	margin-top:-50px;
+	text-align: left;
+}
+
+/* ######################################## Header */
+
+.nav
+{
+	border-bottom: 2px solid black;
+	margin-top: 30px;
+	margin-bottom: 30px;
+	padding-bottom: 15px;
+}
+
+header a:hover
+{
+	text-decoration: none;
+}
+
+#header_page
+{
+	margin: 20px;
+	border-left: 2px solid rgba(0,0,0,0.5);
+	border-bottom: 2px solid rgba(0,0,0,0.5);
+	border-radius: 2px;
+}
+
+#titre
+{
+	margin-bottom: 5px;
+	margin-top: -15px;
+}
+
+#navigateur
+{
+	padding-top: 12px;
+}
+
+.home_hd
+{
+	color: rgb(146,188,247);
+}
+
+.smarstart_hd
+{
+	color: rgb(125,197,141);
+}
+
+.progra_hd
+{
+	color: rgb(228,205,79);
+}
+
+.passions_hd
+{
+	color: rgb(226,135,170);
+}
+
+/* #########################################  Corps */
+
+.blockquote_home
+{
+	margin-top: 60px;
+}
+
+#chart_img
+{
+	margin-top: 85px;
+	margin-left: -160px;
+}
+
+#brain_img
+{
+	margin-left: 90px;
+	margin-top: 20px;
+}
+
+.sous-titre-1_home
+{
+	margin-top: 20px;
+}
+
+.sous-titre-2_home
+{
+	margin-top: 17px;
+}
+
+#article-2_home
+{
+	margin: 150px;
+}
+
+.mon-projet_text
+{
+	text-align: justify;
+}
+
+.li-1
+{
+	margin-top: 60px;
+}
+
+.li-2
+{
+	margin-top: 40px;
+}
+
+li
+{
+	text-align: justify;
+}
+
+.arrow
+{
+	float: right;
+	bottom: 600px;
+}
+
+/* ############################################ Footer */
+
+footer
+{
+	border-top: 1px solid rgba(0,0,0,0.5);
+	border-right: 1px solid rgba(0,0,0,0.5);
+	background-color: rgba(100,100,100,0.15);
+	border-radius: 2px;
+	margin: 30px;
+	padding: 5px;
+}
+
+footer a
+{
+	color: black;
+}
+
+footer a:hover
+{
+	text-decoration: none;
+}
+
+
+
+

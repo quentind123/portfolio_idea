@@ -1,0 +1,71 @@
+/* ##########   Règles de style page Smar'Start ############ */
+
+
+/* Elements principaux de la page */
+
+#article_2
+{
+	margin: 150px;
+	margin-top: -80px;
+	text-align: left;
+}
+
+h3
+{
+	padding-top: 40px;
+}
+
+.sous-titres
+{
+	margin-top: 80px;
+}
+
+#titre_callToAction
+{
+	margin-top: 40px;
+}
+
+#call_to_action
+{
+	margin-top: 60px;
+	margin-left: 160px;
+	padding: 5px;
+	text-align: center;
+}
+
+.liste_chiffres
+{
+	margin-top: 20px;
+}
+
+.titres_img
+{
+	margin-left:90px;
+	margin-top: 20px;
+}
+
+#titre_img_projets
+{
+	margin-left: 140px;
+}
+
+#logo_100jours
+{
+	margin: 30px;
+	margin-left: 50px;
+}
+
+#texte_100jours
+{
+	text-align: justify;
+}
+
+#logo_community
+{
+	margin-left: 120px;
+	margin-top: 10px;
+	width: 150px;
+	height: 150px;
+}
+
+
